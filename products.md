@@ -4,7 +4,17 @@
     
     Eksik tamamen yenilenecek.
 
-    Enterprise Vault IT ile Hukuk departmanı arasındaki boşluğu doldurmaya ve kurumların yapılandırılmamış verilerinin akıllı depolanması, yönetilmesi, keşfedilmesine yardımcı olan bir arşivleme platformudur.
+    Enterprise Vault IT ile Hukuk departmanı arasındaki boşluğu doldurmaya ve kurumların 
+    yapılandırılmamış verilerinin akıllı depolanması, yönetilmesi ve keşfedilmesine yardımcı
+    olan bir arşivleme platformudur.
+
+#### Neden Enterprise Vault
+
+    - Politikalar ile günlük e-posta kayıtlarına ve yapılandırılmamış veri'ye yönelik yetkisiz ve yanlışla gerçekleşen silinmelerden koruma.
+    - Hızlı arama, dava yönetimi,, kanuni el koyma ve e-Kefiş süreçleri sunarak IT ve hukuk departmanı arasında iş verimliliğini arttırır.
+    - KVKK, GDPR, FINRA, SEC, GDPR, HIPAA ve diğer regülasyonlara uyumlu politika temelli yaşlandırma sağlar.
+    - Basit ve ileri seveyi filrelemeler ile yalnızca ihtiyacınız veriye ulaşmanızı sağlar.
+    - Tüm e-posta metadata'sını yakalar(cc & bbc listesi, ekler ve daha fazlası.)
 
 #### Faydalari
 
@@ -16,13 +26,7 @@
 
     - Yapılandırılmamış veriler üzerinde farkındalık sağlayarak iç politika ve yasal düzenlemeler konusunda yardımcı olur.
 
-#### Neden Enterprise Vault
 
-    - Politikalar ile günlük e-posta kayıtlarına ve yapılandırılmamış veri'ye yönelik yetkisiz ve yanlışla gerçekleşen silinmelerden koruma.
-    - Hızlı arama, dava yönetimi,, kanuni el koyma ve e-Kefiş süreçleri sunarak IT ve hukuk departmanı arasında iş verimliliğini arttırır.
-    - KVKK, GDPR, FINRA, SEC, GDPR, HIPAA ve diğer regülasyonlara uyumlu politika temelli yaşlandırma sağlar.
-    - Basit ve ileri seveyi filrelemeler ile yalnızca ihtiyacınız veriye ulaşmanızı sağlar.
-    - Tüm e-posta metadata'sını yakalar(cc & bbc listesi, ekler ve daha fazlası.)
 
 
 ### Backup Exec
@@ -55,8 +59,25 @@
      
 - Netbackup
   -  Mevcut döküman kullanılabilir.
-- Data Insight
-  -  Eksik tamamen yenilenecek.
+
+
+### Data Insight
+    
+    Eksik tamamen yenilenecek.
+
+    Veritas Data Insight, yapılandırılmamış veri yönetimi için bir çözümdür. Dosya sistemi etkinliğini izler ve verileri kimin kullandığı, bu veriye kimin sahip olduğu ve veriye kimlerin erişimi olduğu gibi soruların yanıtlanmasına yardımcı olur. Data Insight, veri erişimi konusunda tam bir görünürlük sağlar ve bu da güvenlik iyileştirme ve uyumluluk çabalarını yönlendirmeye yardımcı olur. Yapılandırılmamış veri üzerinde meydana gelen tüm aktivite (okuma, yazma, silme, oluşturma vs.) geçmişini öğrenir ve bir tarayıcı ile grafiksel ara yüzden takip etmeniz için size sunar. Şirketiniz için hassas, gizli olarak belirlenen verilere erişimi raporlar ve size bunu bildirir. 
+
+#### Faydaları
+
+    - Veritas Data Insight ile kullanıcılar, erişim geçmişini temel alarak bir dosyanın veri kullanıcısını otomatik olarak tanımlamak için dosya erişimini izleyebilirler. Bu yöntem daha verimli iyileştirme ve veri yönetimi sağlar. 
+    - Data Insight, yapılandırılmamış veri sistemlerini tarar ve verilerin tümünde kullanıcıların tam erişim geçmişini toplar. Kuruluşların hassas bilgilere erişimlerini izlemelerine ve rapor etmelerine yardımcı olur. 
+    - Data Insight ayrıca dosya ve klasörlerdeki izinleri kontrol etmenizi ve aşırı izinleri kaldırmanızı sağlar. Kaynaklar üzerindeki izinlerin analiz edilmesi, yalnızca iş kullanıcılarının verilere erişebilmesini sağlar. 
+    - Data Insight, büyük işletme sahibi tarafından yönetilen iyileştirme süreçlerini ve iş akışlarını desteklemektedir. Data Insight Yönetim konsolundan iş akışları oluşturabilir ve seçilen iş ortakları veya yapılandırılmış veri sahipleri tarafından daha fazla işlenmek için bu iş akışlarını gönderebilirsiniz. 
+    - Data Insight, eksik veya yanlış meta verilere veya izleme bilgilerine rağmen, kuruluşların bilgi sahipleri ve veri sahiplerinin tanımlanması sorununu çözmelerine yardımcı olur. Bu, büyük ölçekli işletme sahibi tarafından yönetilen iyileştirme süreçlerini ve iş akışlarını desteklemeye yardımcı olur. 
+    
+
+
+
 - System Recovery
   - Mevcut döküman güncellenecek
 - Destop Laptop Options
