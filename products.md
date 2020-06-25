@@ -92,3 +92,37 @@
   - birden fazla döküman güncellenecek.
 - Information Studio
   -  Eksik tamamen yenilenecek.
+
+
+
+### **Enterprise Vault**
+
+Enterprise Vault, kuruluşların yapılandırılmamış bilgilerini akıllı bir şekilde depolamasına, yönetmesine, keşfetmesine ve anlamasına yardımcı olan hukuk departmanı ve BT arasındaki boşluğu dolduran bir arşivleme platformudur. Gelişmiş Sınıflandırma ve Denetim, müşterilerin küresel gizlilik ve finansal düzenlemeleri karşılamalarını sağlar. 
+
+### **Netbackup**
+
+
+Kurumsal veri yedekleme ve veri kurtarma yazılımlarında uzun zamandır pazar lider olan Veritas NetBackupTM en kompleks ve en büyük çoklu-bulut platformlarını ve veri merkezi ortamlarını korumak için oluşturulmuştur. NetBackup sanallaştırılmış ve bulut-tabanlı kurulumlar için, geleneksel yedekleme uygulamalarının sunabileceğinin çok daha ötesinde, yeni ve eski teknolojilerin desteğini bir arada sunmaktadır.
+
+### **Backup Exec**
+
+
+Veritas Backup Exec™ sınır tanımadan istediğinizi yapmanızı sağlayan bir yedekleme çözümüdür. Neyi yedekleyeceğinizi, nerede depolayacağınızı ve nasıl ödeyeceğinizi seçebilirsiniz. İster yerleşik sistemlerden buluta yedekleyin ister iş yüklerini bulut içinde koruyun, buluttan veri kurtarın ya da yerleşik veri depolama sistemlerinize bağlanın, verileriniz her aşamada güvenli ve erişilebilir kalacaktır. 
+Backup Exec daha az karmaşayla daha çok sorun çözebilmeginize, yönetimsel verimliliği arttırarak basit ama güçlü bir çözüm sunar.
+
+
+### **Data Insight**
+
+Veritas Data Insight, yapılandırılmamış veri yönetimi için bir çözümdür. Dosya sistemi etkinliğini izler ve verileri kimin kullandığı, bu veriye kimin sahip olduğu ve veriye kimlerin erişimi olduğu gibi soruların yanıtlanmasına yardımcı olur. Data Insight, veri erişimi konusunda tam bir görünürlük sağlar ve bu da güvenlik iyileştirme ve uyumluluk çabalarını yönlendirmeye yardımcı olur. Yapılandırılmamış veri üzerinde meydana gelen tüm aktivite (okuma, yazma, silme, oluşturma vs.) geçmişini öğrenir ve bir tarayıcı ile grafiksel ara yüzden takip etmeniz için size sunar. Şirketiniz için hassas, gizli olarak belirlenen verilere erişimi raporlar ve size bunu bildirir. 
+
+### **System Recovery**
+
+Basit ve uygun maliyetli bir imaj yedekleme ve kurtarma çözümü olan Veritas System Recovery , kuruluşların arızaları en aza indirmesine ve farklı donanım veya sanal ortamlara bile dakikalar içinde verileri kolayca kurtarabilir veya tüm sistemin felaket anında geri dönüşünlerde yardımcı olur. Fiziksel'den sanal'a ya da sanal'dan fiziksele geri dönüş imkanı sunar ve donanım güncellemelerine yardımcı olur. Esnek kurtarma yetenekleri, ihtiyacınız olduğunda, ne zaman ve nerede ihtiyacınız olduğunu kurtarmanızı sağlar.
+
+### **DLO**
+
+Veritas™ Desktop and Laptop Option kurumunuzdaki Windows® ve Mac™ masaüstü bilgisayarların ve dizüstü bilgisayarların yedeklenmesi ve kurtarılması için esnek uygulama ve merkezi yönetim sağlayan kullanıcı odaklı bir yedekleme çözümüdür. Dağıtılabilir bileşenlere sahip bu yüksek derece ölçeklenebilir çözüm tek lokasyona, birden çok lokasyona veya uzak ofislere sahip her ölçekten ortam için uygundur ve kullanıcıların en son üzerinde çalıştığı dosyaları bile korumanızı sağlar.
+
+### **APTARE**
+
+APTARE IT Analytics, şirket içi ve hibrit bulut üzerinde heterojen bir BT ortamında yedekleme, depolama ve sanal altyapı için birleştirilmiş veriler sunan tek genişletilebilir platformdur. Karmaşık yedekleme ve barındırma ortamlarından topladığı veriler üzerinde gerçekleştirdiği analizler sayesinde maaliyetlerin azaltılması ve verimliliğin arttırılmasında yardımcı olur.
